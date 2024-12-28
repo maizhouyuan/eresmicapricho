@@ -1,0 +1,10 @@
+{
+    "nav": {
+      "homepage": "Inicio",
+      "portfolio": "Portafolio",
+      "goodStories": "Historias",
+      "forFun": "Diversión",
+      "vault": "Archivo",
+      "about": "Acerca"
+    }
+  }

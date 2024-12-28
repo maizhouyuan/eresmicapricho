@@ -1,0 +1,15 @@
+.logo-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .logo-image {
+    width: 120px;
+  }
+  
+  .logo-text {
+    font-size: 48px;
+    color: #6a0dad;
+    position: relative;
+  }
+  

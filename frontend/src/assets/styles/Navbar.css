@@ -1,0 +1,27 @@
+/* assets/styles/Navbar.css */
+.navbar {
+    /* Position navbar at the gradient intersection */
+    position: relative;
+    top: 20%;
+    transform: translateY(-50%);
+    width: 100%;
+    
+    /* Layout */
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+  }
+  
+  .navbar a {
+    /* Text styling */
+    color: #6a0dad;
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .navbar a:hover {
+    /* Optional: add hover effect */
+    color: #fffc00;
+  }
+  
