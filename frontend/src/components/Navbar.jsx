@@ -1,6 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import '../assets/styles/Navbar.css';
+import LanguageSwitcher from './LanguageSwitcher';
 
 const Navbar = () => {
   const { t } = useTranslation();
@@ -13,6 +14,7 @@ const Navbar = () => {
       <a>{t('nav.forFun')}</a>
       <a>{t('nav.vault')}</a>
       <a>{t('nav.about')}</a>
+
     </nav>
   );
 };

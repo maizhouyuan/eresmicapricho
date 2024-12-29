@@ -1,11 +1,12 @@
 .layout {
     position: relative;
-    min-height: 100vh;
+    min-height: 100%;
   }
   
   
-  .background-bottom {
+  .background {
     height: 100%;
     background-color: #faeffa;
   }
+  
   

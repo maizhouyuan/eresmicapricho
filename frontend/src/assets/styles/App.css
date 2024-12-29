@@ -1,14 +1,19 @@
-#root {
-    width: 100%;
+.app-container {
+    width: 100vw;
     height: 100vh;
-  }
-  
-  .app {
-    width: 100%;
-    height: 100%;
+    background: #faeffa;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
+    overflow-x: hidden;
+
+  }
+
+  @font-face {
+    font-family: 'EuropaGrotesk';
+    src: url('/fonts/EuropaGroteskSH-Med.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
   }
   
   
